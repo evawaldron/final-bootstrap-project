@@ -1,0 +1,92 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+
+h4 {text-align: center;
+    color: rgb(69, 69, 69);
+    font-size: 1.8em;
+    font-family:'Times New Roman', Times, serif;
+    }
+
+p {text-align: center;
+    color: rgb(69, 69, 69);
+    font-family:'Times New Roman', Times, serif;
+    font-size:1.2em;
+    }
+
+#Page1 {background-color: rgb(222, 237, 249);}
+
+#Page5 {background-color: rgb(222, 237, 249);}
+
+#Page3 {background-color: rgb(222, 237, 249);}
+
+#Page2 {background-color: rgb(222, 237, 249);}
+
+#Page4 {background-color: rgb(222, 237, 249);}
+
+#lead {text-decoration-color: black}
+
+h1 {color:rgb(168, 31, 88);
+    font-size: 3.8em;
+    font-family:fantasy;}
+
+h2 {color:rgb(168, 31, 88);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2em;
+    letter-spacing: 0.065em;
+    line-height: 0.3em;
+    text-align: center;
+    }
+
+h3 {font-family:'Times New Roman', Times, serif;
+    font-size: 2.6em;
+    text-align:right;
+    color:rgb(48, 48, 48);
+    }
+
+h5 {font-family:'Times New Roman', Times, serif;
+    font-size: 3em;
+    letter-spacing: 0.04em;
+    color:rgb(168, 31, 88);
+    text-align: center;
+    }
+
+h6 {font-family:'Times New Roman', Times, serif;
+    font-size: 1.7em;
+    color:rgb(48, 48, 48);
+    text-align: center;
+    line-height: 1.3em;
+    }
+
+h7 {font-family:'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    color:rgb(69, 69, 69);
+    text-align: center;
+    line-height: 1.3em;
+        }
+#circleheadshot {display: block;
+                width: 800px;
+                margin: 0 auto;
+                }
+
+#linkedin {display: block;
+            width: 80px;
+            margin: 0 auto;
+            }
+
+#handshake {display: block;
+            width: 85px;
+            margin: 0 auto;
+            }
+
+#instagram {display: block;
+            width: 150px;
+            margin: 0 auto;
+            }
+
+
+#button {display:block;
+    width: 85px;
+    margin: 0 auto;
+    align-items: center;
+    }
